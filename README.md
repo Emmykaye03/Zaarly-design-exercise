@@ -1,7 +1,7 @@
 # Zaarly-design-exercise
 
 My approach is as follows: 
-1. research - Do they have any existing promoted tweets that may have behaved better? These are sometimes good to follow as a "template" based on user behavior. 
+research - Do they have any existing promoted tweets that may have behaved better? These are sometimes good to follow as a    "template" based on user behavior. 
   -Items I looked at: new york times twitter - to see what copy they currently use to drive engagement -> https://twitter.com/nytimes/status/1155385912462909440
   found the exact tweet because I'm creepy like that ;)
   https://twitter.com/nytimes/status/1151963867649589250
